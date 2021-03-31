@@ -7,7 +7,7 @@ discord==0.0.2
 discord.py==0.16.12
 Ghost.py==0.2.3
 idna==2.6
-lxml==4.2.1
+lxml==4.6.3
 multidict==4.2.0
 requests==2.18.4
 selenium==3.11.0
